@@ -6,7 +6,7 @@ var allowedOrigins = []string{
 	"http://localhost:5174/",
 	"http://localhost:5175/",
 	"http://127.0.0.1:8088/",
-	"https://fanciful-meerkat-d8b20e.netlify.app/",
+	"https://charming-starlight-a44ff5.netlify.app/",
 }
 
 func GetAllowedOrigins() []string {
