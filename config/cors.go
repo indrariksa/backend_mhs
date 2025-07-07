@@ -8,6 +8,7 @@ var allowedOrigins = []string{
 	"http://127.0.0.1:8088/",
 	"https://charming-starlight-a44ff5.netlify.app/",
 	"https://fe-pemrog3.vercel.app/",
+	"http://localhost:4173/",
 }
 
 func GetAllowedOrigins() []string {
